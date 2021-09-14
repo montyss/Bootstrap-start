@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+}
+
+.container {
+    padding-top: 150px;
+}
+
+
+.container p {
+    padding-bottom: 30px;
+}
+
+body {
+    background: url(../images/conference.jpg) no-repeat center / cover;
+}
+
+.input-group {
+    max-width: 500px;
+}
